@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.view.View[@content-desc=\"Skip Next\"]/parent::android.view.View/following-sibling::android.view.View/android.widget.Button"
+}

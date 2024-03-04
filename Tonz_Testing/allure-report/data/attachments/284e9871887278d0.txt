@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "\t\n        //android.view.View[@content-desc=\"Play/Pause audio\"]//android.widget.Button"
+}

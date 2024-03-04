@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout[1]/android.widget.FrameLayout/android.widget.ImageView"
+}

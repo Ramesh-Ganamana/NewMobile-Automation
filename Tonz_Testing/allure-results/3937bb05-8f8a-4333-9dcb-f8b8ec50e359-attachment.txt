@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "(//android.view.View[@content-desc=\"Play/Pause audio\"])[1]/parent::android.view.View/following-sibling::android.view.View[1]/android.widget.Button"
+}
